@@ -1,3 +1,6 @@
+// @author: Amir Armion
+// @version: V.01
+
 import GoalForm from './GoalForm';
 import ListOfGoals from './ListOfGoals';
 import { useState } from 'react';
