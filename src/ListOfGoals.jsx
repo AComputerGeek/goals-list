@@ -9,7 +9,7 @@ function ListOfGoals({ allGoals })
   return(
     <div className='list'>
         <ul>
-            {allGoals.map((goal) => <li key={uuidv4()}>My goal is to {goal.goal}, by {goal.by}</li>)}
+            {allGoals.map((goal) => <li key={uuidv4()}>My goal is to {goal.goal}, by {goal.by}.</li>)}
         </ul>
     </div>
   );

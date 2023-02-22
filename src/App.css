@@ -1,6 +1,6 @@
 h1 
 {
-    margin: 50px;
+    margin: 40px 0px 30px 0px;
     text-align: center;
     color: blueviolet;
 }
@@ -10,8 +10,8 @@ form
     border: solid 2px gray;
     border-radius: 10px;
     padding: 10px;
-    max-width: 400px;
-    margin: auto;
+    max-width: 270px;
+    margin: 20px auto;
 }
 
 button
@@ -43,7 +43,9 @@ ul
 {
     text-align: left; 
     margin-top: 30px;
-    padding-left: 500px;
+    padding: 10px auto;
+    display: table;
+    margin: 0 auto;
 }
 
 li 
